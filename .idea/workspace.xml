@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="088d6470-6491-4cb0-b2b7-a8c759d97622" name="Changes" comment="задача 1">
-      <change afterPath="$PROJECT_DIR$/_1_two_sum/solution_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_009_palindrome_number/solution_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Two-Sum/Solution-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/_1_two_sum/solution_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-Two-Sum/Solution-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/_1_two_sum/solution_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.Solution-2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Solution-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution_1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -70,6 +69,8 @@
       <workItem from="1707213513501" duration="385000" />
       <workItem from="1707277366769" duration="929000" />
       <workItem from="1707280930747" duration="89000" />
+      <workItem from="1707281035688" duration="2445000" />
+      <workItem from="1707293047449" duration="2945000" />
     </task>
     <task id="LOCAL-00001" summary="задача 1">
       <option name="closed" value="true" />
@@ -79,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707278179213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="задача 1">
+      <option name="closed" value="true" />
+      <created>1707281438548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707281438548</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +110,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="задача 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode_python$solution_1.coverage" NAME="solution_1 Coverage Results" MODIFIED="1707295950318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_009_palindrome_number" />
     <SUITE FILE_PATH="coverage/leetcode_python$Solution_2.coverage" NAME="Solution-2 Coverage Results" MODIFIED="1707200357137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-Two-Sum" />
     <SUITE FILE_PATH="coverage/leetcode_python$Solution_3.coverage" NAME="Solution-3 Coverage Results" MODIFIED="1707277584551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1-Two-Sum" />
   </component>
