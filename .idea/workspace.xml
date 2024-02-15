@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="088d6470-6491-4cb0-b2b7-a8c759d97622" name="Changes" comment="задача 20">
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode-python.iml" afterDir="false" />
+    <list default="true" id="088d6470-6491-4cb0-b2b7-a8c759d97622" name="Changes" comment="задача 21">
+      <change afterPath="$PROJECT_DIR$/_206_reverse_linked_list/draft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_206_reverse_linked_list/solution_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_021_merge_two_sorted_list/draft.py" beforeDir="false" afterPath="$PROJECT_DIR$/_021_merge_two_sorted_list/draft.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_021_merge_two_sorted_list/solution_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/_021_merge_two_sorted_list/solution_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Solution-2.executor": "Run",
-    "Python.Solution-3.executor": "Run",
-    "Python.draft.executor": "Run",
-    "Python.solution_1.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/python/leetcode-python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Solution-2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Solution-3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draft.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution_1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/leetcode-python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="draft" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="leetcode-python" />
@@ -105,6 +104,7 @@
       <workItem from="1707727309941" duration="1832000" />
       <workItem from="1707796731019" duration="2185000" />
       <workItem from="1707816104184" duration="1917000" />
+      <workItem from="1707890248278" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="задача 1">
       <option name="closed" value="true" />
@@ -154,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707845825780</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="задача 21">
+      <option name="closed" value="true" />
+      <created>1707890268278</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707890268278</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
